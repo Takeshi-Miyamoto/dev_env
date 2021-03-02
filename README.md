@@ -1,2 +1,35 @@
 # dev_env
-開発環境
+
+- Windows 10 Pro
+  - Linux SubSystem: Ubuntu
+  参考：https://www.kkaneko.jp/tools/wsl/wsl2.html
+- Visual Studio Code v1.52.1
+  - Add jsdoc comments
+  - Auto Close Tag
+  - Auto Rename Tag
+  - Bracket Pair Colorizer 2
+  - CSS Peek
+  - ESLint
+  - Git Graph
+  - Git History
+  - GitHub Pull Requests And Issues
+  - GitLens
+  - HTML CSS Support
+  - IntelliSense for CSS class names in HTML
+  - Japanese Language Pack for Visual Studio Code
+  - Live Server
+  - markdownlint
+  - npm
+  - Partial Diff
+  - Path Autocomplete
+  - Prettier - Code formatter
+  - Rainbow CSV
+  - Regex Previewer
+  - Remote - WSL
+  - REST Client
+  - vscode-icons
+  - vscode-reveal
+  - yarn
+- Node v14.15.3
+- npm v6.14.9
+- yarn v1.22.10
